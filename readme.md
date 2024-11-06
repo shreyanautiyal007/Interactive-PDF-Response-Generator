@@ -24,7 +24,7 @@ The application follows these steps to provide responses to your questions:
 
 ## Dependencies and Installation
 ----------------------------
-To install the MultiPDF Chat App, please follow these steps:
+To install the Interactive Responsive PDF Generator, please follow these steps:
 
 1. Clone the repository to your local machine.
 
